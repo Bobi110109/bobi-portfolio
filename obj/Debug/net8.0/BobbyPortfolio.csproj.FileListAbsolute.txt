@@ -1,0 +1,7 @@
+E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.AssemblyInfoInputs.cache
+E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.AssemblyInfo.cs
+E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.csproj.CoreCompileInputs.cache
+E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.MvcApplicationPartsAssemblyInfo.cache
+E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.RazorAssemblyInfo.cache
+E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.RazorAssemblyInfo.cs
