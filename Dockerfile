@@ -13,7 +13,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /sr
 
 # This stage is used to publish the service project to be copied to the final stage
-COPY ["BobbyPortfolio/BobbyPortfolio.csproj", "BobbyPortfolio/"]
+COPY ["BobbyPortfolio.csproj", "./"]
 WORKDIR /src/BobbyPortfolio
 RUN dotnet restore "BobbyPortfolio.csproj"
 
