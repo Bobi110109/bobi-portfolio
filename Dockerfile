@@ -14,11 +14,10 @@ WORKDIR /sr
 
 # This stage is used to publish the service project to be copied to the final stage
 COPY ["BobbyPortfolio.csproj", "./"]
-WORKDIR /src/BobbyPortfolio
 RUN dotnet restore "BobbyPortfolio.csproj"
 
 # This stage is used in production or when running from VS in regular mode (Default when not using the Debug configuration)
 FROM base AS final
 WORKDIR /app
-COPY --from=publish /app/publish .
+COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "BobbyPortfolio.dll"]
