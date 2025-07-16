@@ -5,3 +5,4 @@ E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.
 E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.MvcApplicationPartsAssemblyInfo.cache
 E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.RazorAssemblyInfo.cache
 E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.RazorAssemblyInfo.cs
+E:\Проекти\BobbyPortfolio\BobbyPortfolio\obj\Debug\net8.0\BobbyPortfolio.sourcelink.json

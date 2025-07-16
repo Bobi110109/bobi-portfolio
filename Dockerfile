@@ -19,7 +19,7 @@ COPY . .
 # Publish the app
 RUN dotnet publish BobbyPortfolio.csproj -c Release -o /app/publish
 # This stage is used in production or when running from VS in regular mode (Default when not using the Debug configuration)
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS finalgit 
 WORKDIR /app
 COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "BobbyPortfolio.dll"]
