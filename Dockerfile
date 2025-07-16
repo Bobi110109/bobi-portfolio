@@ -21,3 +21,5 @@ FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "BobbyPortfolio.dll"]
+# Build and publish
+RUN dotnet publish "BobbyPortfolio.csproj" -c Release -o /app/publish
