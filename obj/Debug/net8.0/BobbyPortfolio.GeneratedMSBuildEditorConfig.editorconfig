@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Проекти\BobbyPortfolio\BobbyPortfolio
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Проекти/BobbyPortfolio/BobbyPortfolio/Pages/.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Проекти/BobbyPortfolio/BobbyPortfolio/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -56,10 +60,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/Проекти/BobbyPortfolio/BobbyPortfolio/Pages/Projects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/Проекти/BobbyPortfolio/BobbyPortfolio/Pages/Projects.cshtml.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHMuY3NodG1sLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Проекти/BobbyPortfolio/BobbyPortfolio/Pages/Shared/_ValidationScriptsPartial.cshtml]
